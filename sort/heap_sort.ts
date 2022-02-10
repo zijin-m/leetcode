@@ -3,10 +3,15 @@ function heapSort(arr: number[]) {
         return arr;
     }
     // 构建堆
-    let size = 0;
-    for (let i = 0; i < arr.length; i++) {
-        heapInsert(arr, i);
-        size++;
+    // let size = 0;
+    // for (let i = 0; i < arr.length; i++) {
+    //     heapInsert(arr, i);
+    //     size++;
+    // }
+    let size = arr.length;
+    // 最后一个节点的父节点开始做堆化，也可以完成整体的堆化
+    for (let i = arr.length - 1 >> 1; i >= 0; i--) {
+        heapify(arr, i, size);
     }
     // 堆排序
     while (size--) {
