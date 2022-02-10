@@ -10,3 +10,4 @@
 * [归并排序](sort/merge_sort.ts)
 * [快速排序](sort/quick_sort.ts)
 * [堆排序](sort/heap_sort.ts)
+* [桶排序](sort/bucket_sort.ts)
