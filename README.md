@@ -11,3 +11,7 @@
 * [快速排序](sort/quick_sort.ts)
 * [堆排序](sort/heap_sort.ts)
 * [桶排序](sort/bucket_sort.ts)
+
+# 链表
+* [环形链表](linked-list/has_cycle.ts)
+* [环形链表 II](linked-list/detect_cycle.ts)
