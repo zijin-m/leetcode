@@ -16,3 +16,4 @@
 * [环形链表](linked-list/has_cycle.ts)
 * [环形链表 II](linked-list/detect_cycle.ts)
 * [相交链表](linked-list/get_intersection_node.ts)
+* [删除链表的倒数第N个节点](linked-list/remove_nth_form_end.ts)
