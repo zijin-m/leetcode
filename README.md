@@ -19,3 +19,4 @@
 * [删除链表的倒数第N个节点](linked-list/remove_nth_form_end.ts)
 * [反转链表](linked-list/reverse_list.ts)
 * [反转链表 (递归)](linked-list/reverse_list_two.ts)
+* [移除链表元素](linked-list/remove_elements.ts)
