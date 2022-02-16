@@ -20,3 +20,4 @@
 * [反转链表](linked-list/reverse_list.ts)
 * [反转链表 (递归)](linked-list/reverse_list_two.ts)
 * [移除链表元素](linked-list/remove_elements.ts)
+* [奇偶链表](linked-list/odd_even_list.ts)
