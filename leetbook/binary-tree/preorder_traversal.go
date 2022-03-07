@@ -35,3 +35,32 @@ func preorderTraversalIter(root *TreeNode) (res []int) {
 	}
 	return
 }
+
+// Morris前序遍历方式
+func preorderTraversalMorris(root *TreeNode) (res []int) {
+	if root == nil {
+		return
+	}
+	cur := root
+	var mostRight *TreeNode
+	for cur != nil {
+		if cur.Left != nil {
+			mostRight = cur.Left
+			for mostRight.Right != nil && mostRight.Right != cur {
+				mostRight = mostRight.Right
+			}
+			if mostRight.Right == nil {
+				res = append(res, cur.Val)
+				mostRight.Right = cur
+				cur = cur.Left
+			} else {
+				mostRight.Right = nil
+				cur = cur.Right
+			}
+		} else {
+			res = append(res, cur.Val)
+			cur = cur.Right
+		}
+	}
+	return
+}
