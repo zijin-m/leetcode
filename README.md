@@ -22,3 +22,7 @@
 * [移除链表元素](linked-list/remove_elements.ts)
 * [奇偶链表](linked-list/odd_even_list.ts)
 * [回文链表](linked-list/is_palindrome.ts.ts)
+
+# 二叉树
+* [前序遍历](leetbook/binary-tree/preorder_traversal.go)
+* [中序遍历](leetbook/binary-tree/inorder_traversal.go)

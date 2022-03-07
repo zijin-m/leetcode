@@ -1,4 +1,4 @@
-package leetcode
+package binarytree
 
 import "github.com/zijin-m/leetcode/pkg/structures"
 
