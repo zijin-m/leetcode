@@ -24,5 +24,6 @@
 * [回文链表](linked-list/is_palindrome.ts.ts)
 
 # 二叉树
-* [前序遍历](leetbook/binary-tree/preorder_traversal.go)
-* [中序遍历](leetbook/binary-tree/inorder_traversal.go)
+* [前序遍历（递归/迭代/Morris）](leetbook/binary-tree/preorder_traversal.go)
+* [中序遍历（递归/迭代/Morris）](leetbook/binary-tree/inorder_traversal.go)
+* [后序遍历（递归/迭代/Morris）](leetbook/binary-tree/postorder_traversal.go)
