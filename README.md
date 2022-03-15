@@ -30,3 +30,4 @@
 * [层序遍历）](leetbook/binary-tree/level_order.go)
 * [最大深度](leetbook/binary-tree/max_depth.go)
 * [对称二叉树](leetbook/binary-tree/is_symmetric.go)
+* [路径总和]](leetbook/binary-tree/is_symmetric.go)
