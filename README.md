@@ -29,3 +29,4 @@
 * [后序遍历（递归/迭代/Morris）](leetbook/binary-tree/postorder_traversal.go)
 * [层序遍历）](leetbook/binary-tree/level_order.go)
 * [最大深度](leetbook/binary-tree/max_depth.go)
+* [对称二叉树](leetbook/binary-tree/is_symmetric.go)
