@@ -31,3 +31,5 @@
 * [最大深度](leetbook/binary-tree/max_depth.go)
 * [对称二叉树](leetbook/binary-tree/is_symmetric.go)
 * [路径总和]](leetbook/binary-tree/is_symmetric.go)
+* [前序+中序构造二叉树](leetbook/binary-tree/build_tree_2.go)
+* [后序+中序构造二叉树](leetbook/binary-tree/build_tree.go)
