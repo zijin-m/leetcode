@@ -33,3 +33,4 @@
 * [路径总和]](leetbook/binary-tree/is_symmetric.go)
 * [前序+中序构造二叉树](leetbook/binary-tree/build_tree_2.go)
 * [后序+中序构造二叉树](leetbook/binary-tree/build_tree.go)
+* [填充每个节点的下一个右侧节点指针](leetbook/binary-tree/connect.go)
